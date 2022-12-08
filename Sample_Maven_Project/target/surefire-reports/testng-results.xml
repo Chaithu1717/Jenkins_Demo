@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59681" started-at="2022-11-18T11:41:17 IST" finished-at="2022-11-18T11:42:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59681" started-at="2022-11-18T11:41:17 IST" finished-at="2022-11-18T11:42:16 IST">
+      <class name="sample.DWS_SearchTest">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:sample.DWS_SearchTest@617faa95]" name="TC01" duration-ms="45308" started-at="2022-11-18T11:41:17 IST" finished-at="2022-11-18T11:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+      </class> <!-- sample.DWS_SearchTest -->
+      <class name="sample.RegisterTest">
+        <test-method status="PASS" signature="reg()[pri:0, instance:sample.RegisterTest@60c6f5b]" name="reg" duration-ms="14286" started-at="2022-11-18T11:42:02 IST" finished-at="2022-11-18T11:42:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+      </class> <!-- sample.RegisterTest -->
+      <class name="sample.MavenDemoTest">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:sample.MavenDemoTest@1e127982]" name="Demo" duration-ms="0" started-at="2022-11-18T11:42:02 IST" finished-at="2022-11-18T11:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- sample.MavenDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
