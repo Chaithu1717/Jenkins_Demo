@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class DummyTest {
 	@Test
 	public void dummy() {
-		System.out.println("dummt test");
+		System.out.println("dummy test");
 	}
 
 }
