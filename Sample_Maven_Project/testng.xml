@@ -3,9 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="sample.DWS_SearchTest"/>
+     
       <class name="sample.MavenDemoTest"/>
-      <class name="sample.RegisterTest"/>
+      <class name="sample.DummyTest"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
